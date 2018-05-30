@@ -4,5 +4,7 @@ class Hash
     Hash.each do |key, value|
       if arguments.include?(value)
         matches << value
+      end
+    end
   end
 end
