@@ -7,4 +7,5 @@ class Hash
       end
     end
   end
+  return matches
 end
