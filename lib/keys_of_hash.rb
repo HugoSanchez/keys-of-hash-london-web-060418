@@ -6,6 +6,6 @@ class Hash
         matches << key
       end
     end
+    return matches
   end
-  return matches
 end
